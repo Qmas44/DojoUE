@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Q:/Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"Q:/Games/Code/DojoUE/DoJoALS/Content/DojoALS/Levels/DoJoLevel.umap",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/DojoALS/Levels/ALS_DemoLevel_BuiltData.uasset",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/DojoALS/Levels/ALS_DemoLevel.umap",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
@@ -353,7 +355,6 @@
 				"Q:/Games/UnrealProjects/DoJoALS/Content/DojoALS/Data/Structs/CameraSettings_Gait.uasset",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/DojoALS/Data/Structs/CameraSettings.uasset",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/DojoALS/Levels/DoJoLevel.umap",
-				"Q:/Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/DojoALS/ThirdPartyAssets/Frank_RPG_Katana/Animations/Frank_Katana_IP/Frank_RPG_Katana_Evade_L__IP.uasset",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/SamuraiWeapons/Meshes/Chokuto_White_Sheathed.uasset",
 				"Q:/Games/UnrealProjects/DoJoALS/Content/SamuraiWeapons/Meshes/LODs/Bokken_Darkwood_LOD3.uasset",
